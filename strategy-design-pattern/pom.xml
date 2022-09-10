@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.otunctan.dp</groupId>
-	<artifactId>design-pattern-strategy</artifactId>
+	<artifactId>strategy-design-pattern</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>design-pattern-strategy</name>
+	<name>strategy-design-pattern</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
